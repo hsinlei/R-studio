@@ -1,2 +1,3 @@
 # R-studio
-Microsoft: DAT209x Programming in R for Data Science
+
+Exercises and quizzes of Microsoft: DAT209x Programming in R for Data Science
