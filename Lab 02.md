@@ -40,7 +40,7 @@ my.display(my.data,display=TRUE,type="hist",prob=TRUE)
 ```
 my.display(my.data,display=TRUE,type="density")
 ```
-*Line chart, N = 200 Bandwidth = 0.309, Density, density.default(x=x) *
+*Line chart, N = 200 Bandwidth = 0.309, Density, density.default(x=x)*
 
 ### Question 6
 
